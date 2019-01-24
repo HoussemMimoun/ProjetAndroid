@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppThemee" parent="@android:style/Theme.Holo.Light" />
+    <style name="defaultTextView" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/tableborder</item>
+
+    </style>
+    <style name="frag1TableLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/tableborder</item>
+
+    </style>
+    <style name="AppTheme.TextAppearance.PlayerCard" parent="TextAppearance.AppCompat.Subhead">
+        <item name="android:textColor">#36221B</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="AppTheme.TextAppearance.PlayerCard.Large" parent="AppTheme.TextAppearance.PlayerCard">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="frag1HeaderTableRow" parent="frag1TableLayout">
+        <item name="android:layout_marginBottom">3dp</item>
+        <item name="android:background">@drawable/tableborder</item>
+
+    </style>
+    <style name="frag1TableRow" parent="frag1TableLayout">
+    </style>
+    <style name="frag1Col" parent="defaultTextView">
+        <item name="android:layout_marginBottom">1dp</item>
+        <item name="android:background">@drawable/tableborder</item>
+
+    </style>
+    <style name="frag1HeaderCol" parent="frag1Col">
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/tableborder</item>
+
+    </style>
+</resources>

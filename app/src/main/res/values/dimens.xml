@@ -1,0 +1,26 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="nom_stade">17dp</dimen>
+    <dimen name="description">15dip</dimen>
+    <dimen name="spacing_small">10dp</dimen>
+    <dimen name="spacing_normal">14dp</dimen>
+    <dimen name="page_horizontal_padding">8dp</dimen>
+    <dimen name="card_padding">8dp</dimen>
+    <dimen name="backdrop_height">225dp</dimen>
+    <dimen name="tab_content_start">72dp</dimen>
+    <dimen name="card_top_margin">20dp</dimen>
+    <dimen name="crest_image_size">50dp</dimen>
+    <dimen name="card_margin">16dp</dimen>
+
+    <dimen name="share_button_margin">150dp</dimen>
+    <dimen name="TeamNames">17sp</dimen>
+    <dimen name="Score">30sp</dimen>
+    <dimen name="League">15sp</dimen>
+
+    <!--Widget-->
+    <dimen name="widget_margin">8dp</dimen>
+</resources>
